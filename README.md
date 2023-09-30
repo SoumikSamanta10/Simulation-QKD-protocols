@@ -9,7 +9,7 @@
 ## Environment Setup before running the code:
 
 1. Clone the repository.
-```git clone https://github.com/PeithonKing/Attacking_QKD_Protocols.git```
+```git clone https://github.com/SoumikSamanta10/Simulation-QKD-protocols.git```
 
 2. Open the terminal and navigate to the directory.
 ```cd Simulation-QKD-protocols```
