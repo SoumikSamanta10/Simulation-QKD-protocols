@@ -4,7 +4,7 @@
 
 &emsp; So we used **Flask** module of Python to transfer the Key from one device to the other. We used **Qiskit** module to simulate the quantum circuit on our classical computers.
 
-&emsp; Our submited report can be found here: [Report](requirements.txt)
+&emsp; Our submited report can be found here: [Report](Simulation of Attacks on Quantum Key Distribution protocols.pdf)
 
 ## Environment Setup before running the code:
 
